@@ -15,7 +15,7 @@ The [Google Charts documentation](https://developers.google.com/chart/interactiv
 
 One wrinkle was creating the custom HTML that appears in the tooltip content. On mouseover of each data point, a tooltip box pops up showing the team name, projected wins, and payroll for that specific data point. Those could be edited to include a team logo in a future iteration, if desired.
 
-Check out the screenshot below to see the final product, or clone the repo and run the file to check out the interactive version on your own.
+[Click here](https://mlb2019.herokuapp.com/) to view the interactive version of the chart, or see example screenshot below.
 
 ![screenshot](mlb-viz.png)
 
